@@ -1,30 +1,13 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Hello,I’ Allan. 
+First of all, Thank you for giving me the opportunity to be interviewed for this position today.
+Based on the job description, think  I’m suitable and qualified for taking on  the role.
 
+From my working experience, I know how to apply various tools like python or sql script to build diverse and complicate reports for different situations and stakeholders.
+I also work with management team to set up the BI web platform which include all the reports we made.
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+During the project as I encounter the difficulty, first I will try to break down the problems to found out the core issue then solve the problem from users’ aspect.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Besides, I’m also a fast learner with a flexible mind., for example just within 3 months I’m able to build a practical ordering system by power app or apply different programs and RPA tools adeptly
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Overall, I think I’m a reliable, diligent, person with passion on data science.
+Thank you.
